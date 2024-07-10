@@ -7,8 +7,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class Parameterized {
 	
 	public void testNg() {
-		System.out.println("This is xmls file");
-		System.out.println("This is xml file********************2");
+		System.out.println("##################This is xmls file####################");
+		System.out.println("*******************This is xml file********************2");
 	}
 	
 	WebDriver driver;
