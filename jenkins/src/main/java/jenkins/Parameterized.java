@@ -23,7 +23,7 @@ public class Parameterized {
 			
 		}
 		
-		driver.get("https://www.facebook.com/");
+		driver.get("https://omayo.blogspot.com");
 		driver.manage().window().maximize();	
 	}
 	

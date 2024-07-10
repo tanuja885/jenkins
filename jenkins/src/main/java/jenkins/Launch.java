@@ -11,7 +11,7 @@ public class Launch {
 		System.out.println("**************************hello***************************************************** ");	
 		
 		WebDriver driver = new ChromeDriver();
-		  driver.get("https://www.facebook.com/"); driver.manage().window().maximize();
+		  driver.get("https://omayo.blogspot.com"); driver.manage().window().maximize();
 		 
 	}
 }
