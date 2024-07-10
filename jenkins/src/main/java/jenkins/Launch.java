@@ -9,9 +9,9 @@ public class Launch {
 	@Test
 	public void login() {
 		System.out.println("**************************hello***************************************************** ");	
-		/*
-		 * WebDriver driver = new ChromeDriver();
-		 * driver.get("https://www.facebook.com/"); driver.manage().window().maximize();
-		 */
+		
+		WebDriver driver = new ChromeDriver();
+		  driver.get("https://www.facebook.com/"); driver.manage().window().maximize();
+		 
 	}
 }
